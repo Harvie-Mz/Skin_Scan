@@ -48,7 +48,7 @@ getImageFromGallery() async {
   }
 
   
-  var URL = 'http://192.168.1.101:443/';
+  var URL = 'http://YourIPv4address:443/';
   bool IsPressed = false;
   String output = '';
 
