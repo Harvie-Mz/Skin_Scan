@@ -91,41 +91,7 @@ getImageFromGallery() async {
     });
   }
 
-  // var URL = 'http://192.168.1.161:443/';
 
-  // bool IsPressed = false;
-  // Future postImage(File image) async {
-  //   // String base64Image = base64Encode(image!);
-  //   String base64Image = base64Encode(image.readAsBytesSync());
-  //   var rawData = Uri.parse(URL);
-  //   final response = await http.post(
-  //     rawData,
-  //     body: jsonEncode(
-  //       {
-  //         'image': base64Image,
-  //       },
-  //     ),
-  //     headers: {'Content-Type': "application/json"},
-  //   );
-  //   print('Image StatusCode : ${response.statusCode}');
-  //   print(response.statusCode);
-  // }
-
-  // String output = '';
-  // getAPi() async {
-  //   //  String url ='http://7a4e-102-187-36-172.ngrok.io/predict';
-  //   var rawData = Uri.parse(URL);
-  //   http.Response response = await http.get(rawData);
-  //   var data = response.body;
-  //   // to Print INDEX USE jsondecode
-  //   var array = jsonDecode(data);
-  //   print("Done");
-  //   print('Prediction StatusCode : ${response.statusCode}');
-  //   setState(() {
-  //     IsPressed = true;
-  //     output = array['output'];
-  //   });
-  // }
 
   @override
   Widget build(BuildContext context) {
