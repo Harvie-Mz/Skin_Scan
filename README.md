@@ -4,10 +4,10 @@ Medical App (Diagnosing Dermatological Issues Using ML and Image Processing)
 
 ```bash
 install 
-make sure python , flutter is installed !
+# make sure python , flutter is installed !
 pip install Flask
-make sure 443 port is open or use ngrok
-type Ipv4 address at skindeseasedetection/lib/detection.dart (URL = "")
+# make sure 443 port is open or use ngrok
+# type Ipv4 address at skindeseasedetection/lib/detection.dart (URL = "")
 ```
 
 ```bash
