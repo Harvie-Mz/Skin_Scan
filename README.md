@@ -5,6 +5,7 @@ Medical App (Diagnosing Dermatological Issues Using ML and Image Processing)
 ```bash
 install 
 # make sure python , flutter is installed !
+cd ModelApi 
 pip install Flask
 pip install Pillow
 pip install numpy
