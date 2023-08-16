@@ -19,7 +19,7 @@ flutter run
 ```
 <div align="center">
   <a href="https://ultralytics.com/yolov8" target="_blank">
-  <img width="25%" src="https://github.com/Harvie-Mz/Skin_Scan/assets/123501534/a84e7719-1a0c-4249-9597-0aeb1588ecdc"></a>
+  <img width="50%" src="https://github.com/Harvie-Mz/Skin_Scan/assets/123501534/a84e7719-1a0c-4249-9597-0aeb1588ecdc"></a>
 </div>
 
 
